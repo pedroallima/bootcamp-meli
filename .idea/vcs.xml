@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-java/modulo5/correcao/extfelipeal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-java/modulo5/correcao/herancaemodificadorprotected" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-java/modulo5/correcao/introducaoatiposgenericos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-java/modulo5/correcao/polimorfismocastingdeobjetoseinstanceof" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-java/modulo5/correcao/wrappersdojavalang" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/01-exercicio/01-exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/01-exercicio/01-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/02-exercicio/02-exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/02-exercicio/02-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/03-exercicio/03-exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/03-exercicio/03-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/04-exercicio/04-exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-execoes/04-exercicio/04-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/Dakar-main/Dakar-main.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/Dakar-main/Dakar-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-2/Exercicio/Exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-2/Exercicio/Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-2/Exercicio-professor/Exercicio-professor.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-2/Exercicio-professor/Exercicio-professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/MauriKlein/MauriKlein.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/MauriKlein/MauriKlein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-3/Patrica-integradora-1/Patrica-integradora-1.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-3/Patrica-integradora-1/Patrica-integradora-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-3/Pratrica-integradora-2/Pratrica-integradora-2.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-3/Pratrica-integradora-2/Pratrica-integradora-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp.iml" filepath="$PROJECT_DIR$/.idea/bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-5/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-5/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-1-2-3/exercicio-1-2-3.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-1-2-3/exercicio-1-2-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-4-5-6/exercicio-4-5-6.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-4/exercicio-4-5-6/exercicio-4-5-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciojava1/exerciciojava1.iml" filepath="$PROJECT_DIR$/exerciciojava1/exerciciojava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/extfelipeal/extfelipeal.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/extfelipeal/extfelipeal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/herancaemodificadorprotected/herancaemodificadorprotected.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/herancaemodificadorprotected/herancaemodificadorprotected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/introducaoatiposgenericos/introducaoatiposgenericos.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/introducaoatiposgenericos/introducaoatiposgenericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/modulo5.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/modulo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/polimorfismocastingdeobjetoseinstanceof/polimorfismocastingdeobjetoseinstanceof.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/polimorfismocastingdeobjetoseinstanceof/polimorfismocastingdeobjetoseinstanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto/poo4-orientacao-objeto.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto/poo4-orientacao-objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto-1/poo4-orientacao-objeto-1.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto-1/poo4-orientacao-objeto-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto-2/poo4-orientacao-objeto-2.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/exemplos/poo4-orientacao-objeto-2/poo4-orientacao-objeto-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/java-poo-5/pratrica-integrada-1/pratrica-integrada-1.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/java-poo-5/pratrica-integrada-1/pratrica-integrada-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/tratamentoDeexecoes/tratamentoDeexecoes.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/tratamentoDeexecoes/tratamentoDeexecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java/modulo5/correcao/wrappersdojavalang/wrappersdojavalang.iml" filepath="$PROJECT_DIR$/exercicio-java/modulo5/correcao/wrappersdojavalang/wrappersdojavalang.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+1 - Vamos compilar a oarquivo .JAVA em um .CLASS
+    javac -d . Exercicio2.java
+2 - Vamos crir o manifesto da classe .java para o a Exerciocio1
+temos que apontar oara o Exrecicio1,java porem nao precisamos colocar o .java.
+    echo "Main-Class: Exercicio1" >> Exercicio1.MF
+3 - Vamos compilar o arquivo .class tranformando ele em um arquivo .jar.
+temos que apontar para o manifesto do arquivo, informar qual o nome do arquivo compilado e dizer qual o
+o arquivo .class.
+    jar cvmf Exercicio1.MF Exercicio1.jar Exercicio1.class
+4 - Executando o arquivo .jar
+    java -jar Exercicio1.jar
+
