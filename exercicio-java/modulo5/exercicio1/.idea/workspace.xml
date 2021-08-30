@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9c0873c-a758-453e-b2a9-41aab630c0a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../correcao/extfelipeal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Exercícios Variáveis, tipos de dados e operadores - TM - Documentos Google.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio1.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio2.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio3.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio4.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/Exercicio4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1/passo_crriar_jar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jar/Exercicio1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jar/Exercicio2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jar/Exercicio3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jar/Exercicio4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mf/Exercicio1.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mf/Exercicio2.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mf/Exercicio3.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mf/Exercicio4.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passo_crriar_jar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/5. Exercícios Est. Condicionais e Repetitivas - TT - Documentos Google.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/Exercicio4_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/class/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/class/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/class/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/class/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/jar/Exercicio1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/jar/Exercicio2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/jar/Exercicio3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/jar/Exercicio4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/mf/Exercicio1.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/mf/Exercicio2.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/mf/Exercicio3.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/mf/Exercicio4.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/out/production/exercicio2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/src/Exercicio4_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio2/src/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1x557rHTRZMWpuGqcAa444TZytp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Application.Exercicio4">
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio4" />
+      <module name="exercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="exercicio1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Exercicio4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9c0873c-a758-453e-b2a9-41aab630c0a8" name="Changes" comment="" />
+      <created>1629631944961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629631944961</updated>
+      <workItem from="1629631946301" duration="4899000" />
+      <workItem from="1630271488005" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
