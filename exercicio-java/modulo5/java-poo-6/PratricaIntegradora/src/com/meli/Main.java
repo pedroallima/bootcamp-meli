@@ -2,6 +2,32 @@ package com.meli;
 
 public class Main {
 
+
+   /* Suponha que queremos modelar pessoas de uma universidade para implementar um
+    sistema de gerenciamento de curso.
+    Existem diferentes pessoas envolvidas:
+    funcionários, ok
+    alunos, ok
+    professores, ok
+    pessoal de manutenção, ok
+    tutores, ok
+    pessoal de suporte técnico e ok
+    alunos técnicos. ok
+
+    Tutores e
+    alunos técnicos
+    são interessantes:
+    Tutores são alunos que foram escolhidos para ensinar algo, e alunos técnicos são
+    alunos que foram selecionados para colaborar no suporte técnico.
+
+
+    Faça uma hierarquia de tipos (classes e interfaces) que representa esta situação. Jogue um
+    cenário mostrando quais tipos são classes concretas, classes abstratas e interfaces.*/
+
+
+
+
+
     public static void main(String[] args) throws Exception {
         AlunoNormal alunoNormal = new AlunoNormal("João", 21, "Terceiro Noite");
         Tutor tutor = new Tutor("Maria", 22, "Quarto Tarde");
