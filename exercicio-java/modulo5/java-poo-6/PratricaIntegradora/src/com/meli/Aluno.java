@@ -1,8 +1,8 @@
 package com.meli;
 
-public class AlunoNormal extends Pessoa implements AlunoInterface {
+public class Aluno extends Pessoa implements AlunoInterface {
 
-    public AlunoNormal(String nome, int idade, String turma) {
+    public Aluno(String nome, int idade, String turma) {
         super(nome, idade);
         this._turma = turma;
     }

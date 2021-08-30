@@ -14,11 +14,9 @@ public class Main {
     pessoal de suporte técnico e ok
     alunos técnicos. ok
 
-    Tutores e
-    alunos técnicos
-    são interessantes:
-    Tutores são alunos que foram escolhidos para ensinar algo, e alunos técnicos são
-    alunos que foram selecionados para colaborar no suporte técnico.
+    Tutores ok
+    alunos técnicos ok
+
 
 
     Faça uma hierarquia de tipos (classes e interfaces) que representa esta situação. Jogue um
@@ -29,7 +27,7 @@ public class Main {
 
 
     public static void main(String[] args) throws Exception {
-        AlunoNormal alunoNormal = new AlunoNormal("João", 21, "Terceiro Noite");
+        Aluno alunoNormal = new Aluno("João", 21, "Terceiro Noite");
         Tutor tutor = new Tutor("Maria", 22, "Quarto Tarde");
         AlunoTecnico alunoTecnico = new AlunoTecnico("Allison", 33, "Primeiro Manhã");
 
