@@ -1,6 +1,7 @@
 # bootcamp-meli
 Este o Repositorio para correcao o exercicios estao na pasta Exercicio-java.
-Modulo5
+Modulo5.
+
   java-poo-1
 
 ​		[Exercicio 1](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-1/exercicio1)
@@ -33,11 +34,13 @@ Modulo5
 
   java-poo-6
 
-​		[PratricaIntegradora-1](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora)(A FINALIZAR)
+​		[PratricaIntegradora-1](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora)
 
-​		[PratricaIntegradora-2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora-2) (A FINALIZAR)
+​		[PratricaIntegradora-2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora-2/Exercicio1) 
 
 java-poo-7
+
+​		
 
 
 
