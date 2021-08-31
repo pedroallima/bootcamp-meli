@@ -13,10 +13,10 @@ public class Demo1Application {
     public static void main(String[] args) {
         SpringApplication.run(Demo1Application.class, args);
     }
-    @GetMapping("hello")
+    @GetMapping("ola")
     @ResponseBody
     public String hello(){
-        return "Hello";
+        return "entro aqui!!";
     }
 
 

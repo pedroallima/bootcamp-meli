@@ -5,28 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdabbaf3-fa72-4f6f-b509-6ad26da6e1f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Brasileiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Cumbia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Eletrônica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Interfeces/IntefaceMusica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Sertanejo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/reggaeton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/rockInternacional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Cavalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Cavalo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Coelho.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Coelho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Colsulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Colsulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Ovelho.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Ovelho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/PorquinhoDaIndia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/PorquinhoDaIndia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Tartaruga.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Tartaruga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio2/src/com/meli/Vaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicio2/src/com/meli/zoo/Vaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/Domain/Model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/main/java/com/meli/demo2/Demo2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/test/java/com/meli/demo2/Demo2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meli/Eletrônico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Demo1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Brasileiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Brasileiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Cumbia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Cumbia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Eletrônica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Interfeces/IntefaceMusica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Interfeces/IntefaceMusica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/meli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/Sertanejo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Sertanejo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/reggaeton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/reggaeton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meli/rockInternacional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/rockInternacional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +116,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.meli" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.meli" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.meli.Main" />
@@ -123,6 +135,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,6 +151,8 @@
       <updated>1630378570666</updated>
       <workItem from="1630378572493" duration="2000" />
       <workItem from="1630410660573" duration="2198000" />
+      <workItem from="1630436972359" duration="1641000" />
+      <workItem from="1630438645693" duration="3695000" />
     </task>
     <servers />
   </component>

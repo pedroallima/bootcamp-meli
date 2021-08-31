@@ -2,26 +2,28 @@ package com.meli;
 
 import com.meli.Interfeces.IntefaceMusica;
 
-public class Cumbia extends Musica implements IntefaceMusica  {
-    public Cumbia(int numeroDaMusica, String artista, String nome, int ano) {
+public class Eletrônico extends Musica implements IntefaceMusica  {
+
+    public Eletrônico(int numeroDaMusica, String artista, String nome, int ano) {
         super(numeroDaMusica, artista, nome, ano);
     }
 
     public static void gerenciarAudio() {
-        System.out.println("Cunbia: ○ Hook com reggaeton");
+        System.out.println("Eletronico: ○ Conecte-se com o rock internacional");
     }
 
     public static void gerenciarLuzes() {
-        System.out.println("Conbia: ○ Hook com reggaeton");
+        System.out.println("Eletronico:  ○ Ativar luzes laser");
     }
 
     /*
-● Cumbia
-○ Hook com reggaeton (ok)
+● eletrônica
+    ○ Ativar luzes laser  (OK)
+    ○ Conecte-se com o rock internacional (OK)
     * */
-    @Override
+
     public String toString() {
-        return "Cumbia{" +
+        return "Eletrônico{" +
                 "numeroDaMusica=" + numeroDaMusica +
                 ", artista='" + artista + '\'' +
                 ", nome='" + nome + '\'' +
