@@ -1,38 +1,44 @@
 package com.meli;
 
-public abstract class Animal{
-    /*
+import com.meli.Interfaces.InterfaceAnimal;
+
+public abstract class Animal implements InterfaceAnimal {
+/*
 Animais Domésticos e
 Animais de Fazenda
 , atendem
 cães ok, gatos ok, porquinhos-da-índia ok, coelhos ok, tartarugas ok, cavalos ok, vacas ok e ovelhas.
 */
 
+    public Animal() {}
 
-    public void emitirSom(Object animal) {
-        if (animal instanceof Cachorro) {
-            Cachorro cachorro = (Cachorro) animal;
-            System.out.println("Cachorro faz: " + cachorro.getSom());
-        } else if (animal instanceof Gato) {
-            Gato gato = (Gato) animal;
-            System.out.println("Gato faz: " + gato.getSom());
-        } else if (animal instanceof Vaca) {
-            Vaca vaca = (Vaca) animal;
-            System.out.println("Vaca faz: " + vaca.getSom());
-        }
-    }
+    @Override
+    public void numeroPaciente() {}
 
-    public void comerAnimal(Object animal) {
-        if (animal instanceof Cachorro) {
-            Cachorro cachorro = (Cachorro) animal;
-            System.out.println("Cachorro come carne.");
-        } else if (animal instanceof Gato) {
-            Gato gato = (Gato) animal;
-            System.out.println("Gato come carne.");
-        } else if (animal instanceof Vaca) {
-            Vaca vaca = (Vaca) animal;
-            System.out.println("Vaca come plantas.");
-        }
-    }
+    @Override
+    public void especie() {}
+
+    @Override
+    public void raca() {}
+
+    @Override
+    public void cor() {}
+
+    @Override
+    public void dataNascimento() {}
+
+    @Override
+    public void nome() {}
+
+/*Ao mesmo tempo, cada paciente tem um proprietário atribuído que deve ser conhecido:
+* - ID,
+- nome,
+- sobrenome,
+- data_de_nascimento,
+- endereço e
+- telefone_contato.
+* */
+
+
 
 }
