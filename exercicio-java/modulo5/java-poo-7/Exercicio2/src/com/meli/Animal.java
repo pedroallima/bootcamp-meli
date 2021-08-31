@@ -5,7 +5,7 @@ public abstract class Animal{
 Animais Domésticos e
 Animais de Fazenda
 , atendem
-cães, gatos, porquinhos-da-índia, coelhos, tartarugas, cavalos, vacas e ovelhas.
+cães ok, gatos ok, porquinhos-da-índia ok, coelhos ok, tartarugas ok, cavalos ok, vacas ok e ovelhas.
 */
 
 

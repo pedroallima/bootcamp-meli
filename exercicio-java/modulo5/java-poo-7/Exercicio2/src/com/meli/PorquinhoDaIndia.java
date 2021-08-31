@@ -2,10 +2,10 @@ package com.meli;
 
 import com.meli.Interfaces.ComerMeat;
 
-public class cavalo extends Animal implements ComerMeat{
+public class PorquinhoDaIndia extends Animal implements ComerMeat{
     private String som;
 
-    public cavalo(String som) {
+    public PorquinhoDaIndia(String som) {
         this.som = som;
     }
 
