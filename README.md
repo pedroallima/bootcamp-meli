@@ -46,7 +46,7 @@ java-poo-7
 
 ​		:thinking: [Exercicio2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio2) (Mexendo)
 
-​		✅[Exercicio1] [Exercicio3](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio3) (A Finalizar)
+​		✅[Exercicio1] [Exercicio3](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio3)
 
 
 
