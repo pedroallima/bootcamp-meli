@@ -40,7 +40,11 @@ Modulo5.
 
 java-poo-7
 
-​		:thinking:
+​		:thinking: [Exercicio1](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio1) (A Finalizar)
+
+​		:thinking: [Exercicio2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio2) (A Finalizar)
+
+​		:thinking: [Exercicio3](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-7/Exercicio3) (A Finalizar)
 
 
 
