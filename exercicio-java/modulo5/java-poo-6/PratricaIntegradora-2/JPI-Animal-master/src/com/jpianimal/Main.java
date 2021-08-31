@@ -1,16 +1,6 @@
-package com.meli;
+package com.jpianimal;
 
 public class Main {
-
-    /*
-- número do paciente
-- espécie,
-- raça,
-- cor / s,
-- data de nascimento e
-- nome.
-    *
-    * */
 
     public static void main(String[] args) {
 
