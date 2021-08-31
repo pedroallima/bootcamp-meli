@@ -36,7 +36,7 @@ Modulo5.
 
 ​		[PratricaIntegradora-1](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora)
 
-​		[PratricaIntegradora-2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora-2/Exercicio1) 
+​		[PratricaIntegradora-2](https://github.com/pedroallima/bootcamp-meli/tree/main/exercicio-java/modulo5/java-poo-6/PratricaIntegradora-2/Exerciaio1) 
 
 java-poo-7
 
