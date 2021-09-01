@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdabbaf3-fa72-4f6f-b509-6ad26da6e1f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/Domain/Model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/main/java/com/meli/demo2/Demo2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Spring/demo2/src/test/java/com/meli/demo2/Demo2ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meli/Eletrônico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/java/com/example/demo/Demo1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/demo1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/demo1/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Brasileiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Brasileiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Cumbia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Cumbia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Eletrônica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Interfeces/IntefaceMusica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Interfeces/IntefaceMusica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/Sertanejo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/Sertanejo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/reggaeton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/reggaeton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/meli/rockInternacional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meli/rockInternacional.java" afterDir="false" />
-    </list>
+    <list default="true" id="bdabbaf3-fa72-4f6f-b509-6ad26da6e1f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +125,7 @@
       <workItem from="1630378572493" duration="2000" />
       <workItem from="1630410660573" duration="2198000" />
       <workItem from="1630436972359" duration="1641000" />
-      <workItem from="1630438645693" duration="3695000" />
+      <workItem from="1630438645693" duration="4243000" />
     </task>
     <servers />
   </component>

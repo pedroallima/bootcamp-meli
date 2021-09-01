@@ -3,6 +3,8 @@ package com.meli.zoo;
 import com.meli.Animal;
 import com.meli.Interfaces.InterfaceAnimal;
 
-public class Ovelho extends Animal implements InterfaceAnimal {
-
+public class Ovelho extends Animal {
+    public Ovelho(int numeroPaciente, String especie, String raca, String cor, String dataNascimento, String nome) {
+        super(numeroPaciente, especie, raca, cor, dataNascimento, nome);
+    }
 }

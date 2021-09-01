@@ -9,26 +9,53 @@ Animais de Fazenda
 , atendem
 cães ok, gatos ok, porquinhos-da-índia ok, coelhos ok, tartarugas ok, cavalos ok, vacas ok e ovelhas.
 */
+    public int numeroPaciente;
+    public String especie;
+    public String racas;
+    public String cor;
+    public String dataNascimento;
+    public String nome;
 
-    public Animal() {}
+    public Animal(int numeroPaciente, String especie, String racas, String cor, String dataNascimento, String nome) {
+        this.numeroPaciente = numeroPaciente;
+        this.especie = especie;
+        this.racas = racas;
+        this.cor = cor;
+        this.dataNascimento = dataNascimento;
+        this.nome = nome;
+    }
+
 
     @Override
-    public void numeroPaciente() {}
+    public void numeroPaciente() {
+        System.out.println("Numero do paciente: "+this.numeroPaciente);
+    }
 
     @Override
-    public void especie() {}
+    public void especie() {
+        System.out.println("Especie: "+this.especie);
+    }
 
     @Override
-    public void raca() {}
+    public void raca() {
+        System.out.println("Raca: "+this.racas);
+    }
 
     @Override
-    public void cor() {}
+    public void cor() {
+        System.out.println("Raca: "+this.cor);
+    }
 
     @Override
-    public void dataNascimento() {}
+    public void dataNascimento() {
+        System.out.println("Raca: "+this.dataNascimento);
+    }
 
     @Override
-    public void nome() {}
+    public void nome() {
+        System.out.println("Raca: "+this.nome);
+
+    }
 
 /*Ao mesmo tempo, cada paciente tem um proprietário atribuído que deve ser conhecido:
 * - ID,
