@@ -1,0 +1,19 @@
+
+Œ
+\SPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/entity/ImovelService.java,6/a/6a3fbaef3efc5b158eb33ce196a280832eba673b
+„
+TSPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/model/Quarto.java,c/8/c8f5c75c2b11b43828f698f77fa1532da5b773ef
+Œ
+\SPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/entity/QuartoService.java,4/3/4324ff754e23e3fcc651defafd052d4be748fdb9
+9
+	aula1.txt,9/8/987fb668232706aace85ceddac32fce87a5a4703
+“
+cSPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/SpiCalculadoraM2Application.java,8/1/81b002bd4bd7fc426f4ebb2066f66edd0865604a
+„
+TSPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/model/Imovel.java,5/5/55be70769020d099349d4dbef0749132480436d8
+…
+USPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/dto/ImovelDto.java,2/2/22adf64d7cc49fdc9d3f76ec3950f475b46dc918
+…
+USPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/dto/QuartoDto.java,c/1/c126082381db393d027a173d2d54fcb7a328e10f
+“
+cSPRING-BOOT/Spring-CaludadoraM2/src/main/java/com/spicalculadoram2/controller/ImovelController.java,7/6/769e217455ab1a6d4134adaa2f0d2e915d65e8b1

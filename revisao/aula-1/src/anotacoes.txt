@@ -1,4 +1,0 @@
-orientacao objeto,
-
-1 - declaracao ok
-2 - conceitos orientacao

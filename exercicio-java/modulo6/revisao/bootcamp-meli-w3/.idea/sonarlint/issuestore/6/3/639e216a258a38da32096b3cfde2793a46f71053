@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿áÓÿýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê‡ðí
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(”¥©®ûÿÿÿÿ
+û
+java:S1598"ßThis file "Main.java" should be located in "com/dh/meli/w3/oo/lesson4" directory, not in "/Users/pleao/Documents/bootcamp-meli/exercicio-java/modulo6/revisao/bootcamp-meli-w3/demo/src/main/java/com/example/demo/oo/lesson4".(Ý˜¶öÿÿÿÿÿ
+g
+java:S2095/"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(÷òúâúÿÿÿÿ

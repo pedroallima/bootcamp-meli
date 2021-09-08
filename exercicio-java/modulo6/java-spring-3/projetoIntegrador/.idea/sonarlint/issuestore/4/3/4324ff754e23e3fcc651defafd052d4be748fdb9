@@ -1,0 +1,11 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê—×Î
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(µ¢€ô
+V
+java:S1854";Remove this useless assignment to local variable "calculo".(Åã¿…ýÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(µ¢€ô
+G
+java:S1481",Remove this unused "calculo" local variable.(Åã¿…ýÿÿÿÿ
