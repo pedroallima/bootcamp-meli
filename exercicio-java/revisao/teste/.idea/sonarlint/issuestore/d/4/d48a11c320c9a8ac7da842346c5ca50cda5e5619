@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(νδήÿÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(θΰΩϋÿÿÿÿ
+M
+java:S1172*"2Remove this unused method parameter "funcionario".(Ωικαÿÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(νδήÿÿÿÿÿ
+O
+java:S1172?"-Remove this unused method parameter "pessoa".(ΓρΩÿÿÿÿÿ8³Ξ°Ό/
+]	java:S125E"<This block of commented-out lines of code should be removed.(θΰΩϋÿÿÿÿ8Ιβª―Ό/

@@ -59,5 +59,20 @@ public class ArquivoUtil {
 		}
 		
 	}
+	// criando execao funcionario
+	public void suaIdade(Pessoa pessoa){
+		try {
+			funcionarioExistente(funcionario);
+			bw.append(funcionario.toString());
+			bw.newLine();
+		}catch(IOException e){
+			//throw new IOException("Erro no momento de persistir o registro no arquivo");
+			//neste caso exige o throws na assinatura do metodo
+			throw new PersistenciaException("Erro no momento de persistir o registro no arquivo");
+		}catch(FuncionarioExistenteException e) {
+			throw new FuncionarioExistenteException(e);
+		}
+	}
+
 
 }
