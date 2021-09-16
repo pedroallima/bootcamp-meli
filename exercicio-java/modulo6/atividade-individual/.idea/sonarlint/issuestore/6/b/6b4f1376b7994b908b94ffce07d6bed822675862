@@ -1,0 +1,26 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÊåÑøÿÿÿÿ
+A
+java:S2175"+A "List<Pessoa>" cannot contain a "String".(ëæş¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É§á
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÔƒ…
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(šÌ——øÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(’ğ­
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(â§íÇüÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(İÔ”†
+A
+java:S14813"+Remove this unused "pessoa" local variable.(çúîò
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ê¶Ø
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(’ğ­
+b	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‰‡
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Ê¦¦‘ıÿÿÿÿ
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Ê¦¦‘ıÿÿÿÿ8ãˆ‰÷¾/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Ê¦¦‘ıÿÿÿÿ8äˆ‰÷¾/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êõ»ûÿÿÿÿ
+H
+java:S3958="2Refactor the code so this stream pipeline is used.(ÙŒ–œ
+M
+java:S3958F"2Refactor the code so this stream pipeline is used.(ÿÎÚíÿÿÿÿÿ
+H
+java:S3958A"2Refactor the code so this stream pipeline is used.(‘ÇËø
