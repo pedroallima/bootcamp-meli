@@ -50,7 +50,7 @@ public class Agenda {
     void exibirPessoa(int index){
         for(Pessoa pessoa: pessoas){
             if (pessoas.get(index) != null ){
-                System.out.println("Nome: "+pessoas.get(index).nome+ " Endereco: "+pessoas.get(index).nome+" Telefone: "+pessoas.get(index).telefone+" Idqade: "+pessoas.get(index).idqade+" Alutira: "+pessoas.get(index).altura);
+                System.out.println("Nome: "+pessoas.get(index).nome+ " Endereco: "+pessoas.get(index).endereco+" Telefone: "+pessoas.get(index).telefone+" Idqade: "+pessoas.get(index).idqade+" Alutira: "+pessoas.get(index).altura);
                 return;
             }
         }
@@ -58,17 +58,17 @@ public class Agenda {
     }
 
     public void listarPessoasEmOrdemAlfabéticaDeNome(){
-        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p1.getNome().compareTo(p2.getNome()));
-        pessoas.forEach(System.out::println);
+        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p1.nome.compareTo(p2.nome)).forEach(System.out::println);
+       // pessoas.forEach(System.out::println);
     }
     public void listarPessoasEmOrdemAlfabeticaDeEndereco(){
-        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p1.getEndereco().compareTo(p2.getEndereco()));
-        pessoas.forEach(System.out::println);
+        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p1.endereco.compareTo(p2.endereco)).forEach(System.out::println);
+      //  pessoas.forEach(System.out::println);
 
     }
     public void listarPessoasPorIdade(){
-        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p1.getIdqade().compareTo(p2.getIdqade()));
-        pessoas.forEach(System.out::println);
+        pessoas.stream().sorted((Pessoa p1, Pessoa p2) -> p2.idqade.compareTo(p1.idqade)).forEach(System.out::println);
+      //  pessoas.forEach(System.out::println);
 
     }
 

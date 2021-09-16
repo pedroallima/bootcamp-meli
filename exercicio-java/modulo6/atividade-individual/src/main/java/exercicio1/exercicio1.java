@@ -35,11 +35,10 @@ public class exercicio1 {
       //Adicionando as pessoas na lista
       agenda.armazenarPessoa(pessoa);
       agenda.armazenarPessoa(pessoa2);
-      agenda.armazenarPessoa(pessoa3);
-      agenda.armazenarPessoa(pessoa4);
       agenda.armazenarPessoa(pessoa5);
       agenda.armazenarPessoa(pessoa6);
-      agenda.armazenarPessoa(pessoa7);
+      agenda.armazenarPessoa(pessoa4);
+      agenda.armazenarPessoa(pessoa3);
       agenda.armazenarPessoa(pessoa8);
       agenda.armazenarPessoa(pessoa9);
       agenda.armazenarPessoa(pessoa10);
