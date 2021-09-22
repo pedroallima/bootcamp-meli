@@ -1,0 +1,116 @@
+
+8
+java:S1659	""Declare "cont" on a separate line.(—ôş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¥°Ìüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÆÎ­şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìĞåßÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÕ£İûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁøÙĞúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ´ª¥şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²èõ±ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áå¨ÿÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ö¡“b
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Üôşúÿÿÿÿ8 ˜—÷À/
+c
+java:S16590"ADeclare "name" and all following declarations on a separate line.(ºì’âùÿÿÿÿ8¡˜—÷À/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(³É”À8¡˜—÷À/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(èÓü 8¢˜—÷À/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Û¢Ÿ¯8¢˜—÷À/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÄÉ™¨8£˜—÷À/
+j	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø•ø8£˜—÷À/
+\
+java:S6213E":Rename this variable to not match a restricted identifier.(Úİƒúÿÿÿÿ8¤˜—÷À/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ï¾8¤˜—÷À/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(½§´öıÿÿÿÿ8¤˜—÷À/
+\
+java:S2479H":Remove the non-escaped \u0009 character from this literal.(½§´öıÿÿÿÿ8¤˜—÷À/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ï¾8¥˜—÷À/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(Ò…å8¥˜—÷À/
+W
+java:S2479O":Remove the non-escaped \u0009 character from this literal.(Ò…å8¥˜—÷À/
+W
+java:S2479O":Remove the non-escaped \u0009 character from this literal.(Ò…å8¦˜—÷À/
+W
+java:S2479O":Remove the non-escaped \u0009 character from this literal.(Ò…å8¦˜—÷À/
+W
+java:S2479O":Remove the non-escaped \u0009 character from this literal.(Ò…å8¦˜—÷À/
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(»‰ö®8¦˜—÷À/
+W
+java:S2479S":Remove the non-escaped \u0009 character from this literal.(»‰ö®8¦˜—÷À/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ï¾8¦˜—÷À/
+o	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç³¼»ıÿÿÿÿ8§˜—÷À/
+F
+java:S1659["$Declare "record" on a separate line.(µ³é†şÿÿÿÿ8§˜—÷À/
+\
+java:S6213[":Rename this variable to not match a restricted identifier.(µ³é†şÿÿÿÿ8¨˜—÷À/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(¹§ò‘üÿÿÿÿ8¨˜—÷À/
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ÔÀÜöûÿÿÿÿ8¨˜—÷À/
+j	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÜ˜28©˜—÷À/
+G
+java:S1659ƒ"$Declare "record" on a separate line.(µ³é†şÿÿÿÿ8ª˜—÷À/
+]
+java:S6213ƒ":Rename this variable to not match a restricted identifier.(µ³é†şÿÿÿÿ8ª˜—÷À/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÛÏˆ ıÿÿÿÿ8«˜—÷À/
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÔÀÜöûÿÿÿÿ8«˜—÷À/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ï¾8«˜—÷À/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(½§´öıÿÿÿÿ8¬˜—÷À/
+]
+java:S2479":Remove the non-escaped \u0009 character from this literal.(½§´öıÿÿÿÿ8¬˜—÷À/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ï¾8¬˜—÷À/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(Ò…å8­˜—÷À/
+X
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(Ò…å8­˜—÷À/
+X
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(Ò…å8­˜—÷À/
+X
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(Ò…å8­˜—÷À/
+X
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(Ò…å8­˜—÷À/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(»‰ö®8®˜—÷À/
+X
+java:S2479":Remove the non-escaped \u0009 character from this literal.(»‰ö®8®˜—÷À/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ï¾8®˜—÷À/
+f
+java:S1659¨"CDeclare "newAge" and all following declarations on a separate line.(ö–èœúÿÿÿÿ8¯˜—÷À/
+]
+java:S6213¨":Rename this variable to not match a restricted identifier.(ö–èœúÿÿÿÿ8¯˜—÷À/
+[	java:S106²"9Replace this use of System.out or System.err by a logger.(òˆÓúÿÿÿÿ8°˜—÷À/
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(ÔÀÜöûÿÿÿÿ8°˜—÷À/
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ï¾8±˜—÷À/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(½§´öıÿÿÿÿ8±˜—÷À/
+]
+java:S2479·":Remove the non-escaped \u0009 character from this literal.(½§´öıÿÿÿÿ8±˜—÷À/
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(ï¾8±˜—÷À/
+V	java:S106¾"9Replace this use of System.out or System.err by a logger.(Ò…å8²˜—÷À/
+X
+java:S2479¾":Remove the non-escaped \u0009 character from this literal.(Ò…å8³˜—÷À/
+X
+java:S2479¾":Remove the non-escaped \u0009 character from this literal.(Ò…å8³˜—÷À/
+X
+java:S2479¾":Remove the non-escaped \u0009 character from this literal.(Ò…å8³˜—÷À/
+X
+java:S2479¾":Remove the non-escaped \u0009 character from this literal.(Ò…å8³˜—÷À/
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(»‰ö®8³˜—÷À/
+X
+java:S2479Â":Remove the non-escaped \u0009 character from this literal.(»‰ö®8´˜—÷À/
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ï¾8´˜—÷À/
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(…ş¯ûÿÿÿÿ8´˜—÷À/
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(ëêùÿÿÿÿ8´˜—÷À/
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¶ØÛú8µ˜—÷À/
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(û²Ş°ûÿÿÿÿ8¶˜—÷À/
+e
+java:S1192O"HDefine a constant instead of duplicating this literal "      |" 3 times.(Ò…å8¶˜—÷À/
+
+java:S1192G"€Define a constant instead of duplicating this literal " ------------------------------------------------------------- " 9 times.(ï¾8·˜—÷À/
+q
+java:S1192-"ODefine a constant instead of duplicating this literal "naldrix_db.txt" 5 times.(®¸²’şÿÿÿÿ8·˜—÷À/
+u
+java:S11922"XDefine a constant instead of duplicating this literal "Enter the Employee ID: " 4 times.(³É”À8·˜—÷À/
+˜
+java:S1192S"{Define a constant instead of duplicating this literal "|	                                            	          |" 3 times.(»‰ö®8·˜—÷À/
+…
+java:S1192H"cDefine a constant instead of duplicating this literal "|	ID		Name 				Age			Address 		  |" 3 times.(½§´öıÿÿÿÿ8·˜—÷À/
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºì’âùÿÿÿÿ8¸˜—÷À/
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³é†şÿÿÿÿ8¸˜—÷À/
+s	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³é†şÿÿÿÿ8¸˜—÷À/
+s	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö–èœúÿÿÿÿ8¸˜—÷À/
