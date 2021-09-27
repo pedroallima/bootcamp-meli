@@ -59,12 +59,10 @@ public class Crud {
                 		BufferedReader br = new BufferedReader( new FileReader( db ) );
                 		BufferedWriter bw = new BufferedWriter( new FileWriter( tempDB ) );
 
-
                 		System.out.println("\t\t Excluir Registro de Funcionário\n");
 
                 		System.out.println("Insira o ID do funcionário: ");
                 		ID =  strInput.nextLine();
-
 
                 		while( ( record = br.readLine() ) != null ) {
                 			if( record.contains(ID) )
@@ -77,7 +75,6 @@ public class Crud {
                 		bw.close();
 
                 		db.delete();
-
                 		tempDB.renameTo(db);
 
                 }
